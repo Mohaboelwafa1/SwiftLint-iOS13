@@ -19,12 +19,12 @@
       }
     },
     {
-      "identity" : "sourcekitten",
+      "identity" : "sourcekitten-ios13",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jpsim/SourceKitten.git",
+      "location" : "https://github.com/Mohaboelwafa1/SourceKitten-iOS13.git",
       "state" : {
-        "revision" : "fd4df99170f5e9d7cf9aa8312aa8506e0e7a44e7",
-        "version" : "0.35.0"
+        "branch" : "main",
+        "revision" : "7cbac5f6311de02ead10acc7086cc6fce5c55826"
       }
     },
     {
